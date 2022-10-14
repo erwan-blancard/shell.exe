@@ -1,0 +1,1 @@
+@reboot while inotifywait -e close_write /home/erwan/shell.exe/Job_9/Shell_Userlist.csv; do /home/erwan/shell.exe/Job_9/accessrights.sh; done
