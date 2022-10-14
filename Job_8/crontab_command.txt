@@ -1,0 +1,1 @@
+0 * * * * /home/erwan/shell.exe/Job_8/get_logs.sh
